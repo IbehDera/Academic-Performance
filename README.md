@@ -1,5 +1,7 @@
 # Academic-Performance
-"Attaining an academic credential presents hurdles for students on a global scale. The journey is frequently intimidating. As per data from the Education Data Initiative (EDI) in 2021, approximately 40% of undergraduates withdraw from their university or college programs. What are the factors that jeopardize students' academic performance?"
+![Academic Performance Dashboard](https://github.com/IbehDera/Academic-Performance/assets/125457751/d577b00f-79df-4db5-a8be-61e7ef1ddc67)
+
+Attaining an academic credential presents hurdles for students on a global scale. The journey is frequently intimidating. As per data from the Education Data Initiative (EDI) in 2021, approximately 40% of undergraduates withdraw from their university or college programs. What are the factors that jeopardize students' academic performance?
 
 The Exploratory Data Analysis was carried out in 7 categories in relation to the target variable.
 
@@ -12,4 +14,3 @@ The following insights were obtained after conducting the Exploratory Data Analy
 5. Socioeconomic Factor: Students whose parents are students and have unknown qualifications have a high chance of dropping out. Also, Married students have a high dropout rate, while single students recorded a high graduation rate.
 6. Macroeconomic Factor: This had little to no effect on student academic success and dropout. 
 7. Application Factor: Students who meet the 1st phase general requirement have a high graduate rate, while students above 23 years old have a high dropout rate. Also, Management courses recorded a high dropout rate while Nursing recorded a high graduate 
-![Academic Performance Dashboard](https://github.com/IbehDera/Academic-Performance/assets/125457751/d577b00f-79df-4db5-a8be-61e7ef1ddc67)
